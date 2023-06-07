@@ -1,2 +1,2 @@
 # learn-javascript-coursera
-Coursera tutorial beginner
+Coursera tutorial for beginer like me

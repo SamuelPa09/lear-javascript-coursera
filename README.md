@@ -1,2 +1,2 @@
-# lear-javascript-coursera
+# learn-javascript-coursera
 Coursera tutorial beginner
